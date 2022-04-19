@@ -3,7 +3,7 @@
 // @author			ACTCD
 // @version			20220311.3
 // @namespace		https://t.me/ACTCD
-// @description		Youtube Enable Picture-in-Picture
+// @description		Youtube Enable Picture-in-Picture ,not download
 // @match			*://*.youtube.com/*
 // @grant			none
 // @run-at			document-start
